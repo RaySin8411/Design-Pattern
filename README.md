@@ -31,3 +31,7 @@
   * 策略(Strategy pattern)
   * 模板方法(Template method pattern)
   * 參觀者(Visitor)
+
+
+## Reference
+* https://refactoringguru.cn/
